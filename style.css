@@ -1,0 +1,50 @@
+html{
+	color: white;
+	background-image: url("wateroug.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+
+	/*background: linear-gradient(#308BB9,#FFFFFF);
+	
+	*/
+}
+
+
+
+h2 {
+	text-align: center;
+
+    color: black;
+    font-size: 30px;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+    text-transform: uppercase;
+    border-bottom: 2px solid ;
+}
+
+
+
+p{
+/*	
+	font-family: "sans-serif;";
+	font-size: 22px;
+	;*/
+
+	text-align: center;
+	color: #0A4F5A;
+	background-color: #CCF9F9;
+	font-size: 25px;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding: 5px;
+	border-width: 50px;
+
+	border-radius: 8px;
+	border-color: #CCF9F9;
+	font
+
+
+}
