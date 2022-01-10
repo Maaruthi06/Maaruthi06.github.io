@@ -1,0 +1,86 @@
+html{
+	color: white;
+	background-image: url("okokbest.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+/*h2 {
+	text-align: center;
+
+    color: #CBCBCB;
+    font-size: 30px;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+    text-transform: uppercase;
+    border-bottom: 2px solid ;
+}*/
+
+h2 {
+	text-align: left;
+
+    color: #FFFFFF;
+    font-size: 30px;
+    top: 0px;
+    margin-left: 60px;
+    padding: 5px;
+    text-transform: uppercase;
+    /*border-bottom: 2px solid ;*/
+}
+
+p{
+	text-align: left;
+	color: #0A4F5A;
+	background-color: #B4EAC1;
+	font-size: 25px;
+	margin-left: 80px;
+	margin-right: 300px;
+	padding: 5px;
+	border-width: 50px;
+
+	border-radius: 8px;
+	border-color: #B4EAC1;
+	
+}
+
+#birb {
+
+
+	padding-left: 20px;
+	text-align: left;
+}
+
+a:link, a:visited {
+	font-size: 30px;
+  background-color: white;
+  color: black;
+  border: 2px cyan;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+	font-size: 30px;
+  background-color: darkgreen;
+  color: white;
+}
+
+
+#damimg {
+float: right;    
+ margin: 0 0 0 15px;
+}
+
+
+
+
+
+
+
+

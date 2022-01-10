@@ -1,0 +1,41 @@
+html{
+	color: white;
+	background-image: url("fact123.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+h1{
+color: black;
+font-size: 35px;
+}
+
+h2 {
+	text-align: left;
+
+    color: white;
+    font-size: 30px;
+    top: 0px;
+    margin-left: 60px;
+    padding: 5px;
+    text-transform: uppercase;
+    /*border-bottom: 2px solid ;*/
+}
+
+p{
+	text-align: left;
+	color: #0A4F5A;
+	background-color: #AADFEC;
+	font-size: 25px;
+	margin-left: 80px;
+	margin-right: 300px;
+	padding: 5px;
+	border-width: 50px;
+
+	border-radius: 8px;
+	border-color: #88ABC4;
+	
+}
